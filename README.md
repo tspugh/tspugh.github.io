@@ -15,6 +15,9 @@ Preview: `python3 -m http.server 8765` from this directory.
 GitHub Pages: publish the repository root from the `main` branch. `.nojekyll` disables Jekyll processing. All local links are relative.
 
 ## Content notes
-Based on the revised EPFL CV and Thomas's November 20, 2026 biography instructions. The PDF is a public copy with street address and telephone removed; the original is unchanged. Project descriptions are initial CV-based summaries for later refinement. Only verified public repository links are included. LinkedIn is omitted until the exact profile URL is supplied. No speculative project results or generated project thumbnails are included.
+Based on the revised EPFL CV and Thomas's November 20, 2026 biography instructions. The PDF is a public copy with street address and telephone removed; the original is unchanged. Project descriptions are initial CV-based summaries for later refinement. Only verified public repository links are included. LinkedIn is omitted until the exact profile URL is supplied. No speculative project results are included. Conceptual project-header illustrations were generated with the built-in image tool; prompts and asset paths are recorded in `assets/image-prompts.json`. These are decorative, not experimental outputs.
 
 Keep the webpage and PDF in sync when updating the CV. The CV retains the source's stated intended specialization; the homepage and About use broader interests. Vienna is described as planned, starting March 2027, with completion in 2028.
+
+## Readability revision
+CV entries use semantic headings, distinct date labels, grouped lists, and section links. Supporting text contrast and line widths were improved following W3C WAI design guidance and Nielsen Norman Group heading-scanning research. Curie appears last in the project list.

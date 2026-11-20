@@ -1,0 +1,40 @@
+{
+  "method": "Built-in image_gen",
+  "images": [
+    {
+      "name": "polymer",
+      "path": "assets/project-polymer.png",
+      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: a delicate branching molecular chain with small connected spheres. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+    },
+    {
+      "name": "spectroscopy",
+      "path": "assets/project-spectroscopy.png",
+      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: three elegant spectral curves with a few peaks, no axes or labels. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+    },
+    {
+      "name": "evaluation",
+      "path": "assets/project-evaluation.png",
+      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: a small orderly arrangement of document sheets with subtle check marks. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+    },
+    {
+      "name": "pde",
+      "path": "assets/project-pde.png",
+      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: a smooth mathematical wave surface made of thin contour lines. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+    },
+    {
+      "name": "molecule",
+      "path": "assets/project-molecule.png",
+      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: two small molecular structures separated into connected fragments. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+    },
+    {
+      "name": "vision",
+      "path": "assets/project-vision.png",
+      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: an abstract cat silhouette inside three softly offset image frames. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+    },
+    {
+      "name": "curie",
+      "path": "assets/project-curie.png",
+      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: two simple interlocking contract sheets joined by three connected nodes, evoking agreement and software. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+    }
+  ]
+}
