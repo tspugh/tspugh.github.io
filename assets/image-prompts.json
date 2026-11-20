@@ -33,8 +33,8 @@
     },
     {
       "name": "curie",
-      "path": "assets/project-curie.png",
-      "prompt": "Use case: stylized-concept. Create one small editorial header illustration for a professional mathematics and computation portfolio project card. Subject: two simple interlocking contract sheets joined by three connected nodes, evoking agreement and software. Landscape 3:2 composition. Restrained flat ink illustration, delicate but clear strokes, warm cream background #e9dfcf and charcoal #292824 with muted brass #ae8951 details. Central composition with ample negative space; subject occupies central 65 percent width and 60 percent height so it works in a shallow cropped banner. Elegant, simple, quiet academic visual. No words, no letters, no numbers, no logos, no gradients, no photorealism, no ornamental frame. This is conceptual decoration, not a scientific result."
+      "path": "assets/project-curie-v3.png",
+      "prompt": "Use the supplied image ONLY as a strict style reference for a NEW matching project-card icon. Match its flat charcoal outlines, stroke weight, muted ochre accent fills, cream background and sparse clean vector-like forms. Replace the document composition with a SIMPLE BALANCE SCALE: straight horizontal beam, plain central vertical stem, two shallow semicircular hanging pans suspended by single straight lines, flat trapezoid base. A small capsule rests in the left pan and a simple outlined rounded square with one ochre checkmark rests in the right pan. Symmetrical, centered, recognizable as an icon. Absolutely NO engraving, hatching, antique ornament, metallic reflections, 3D, drop shadows, pencil rendering, or intricate chains. Only cream, charcoal, muted ochre. No text. Landscape 3:2; central motif occupies 50 percent width and 45 percent height, with ample blank space, to fit a shallow card banner. This must look like another member of the same icon set as the reference, not a separate illustration style."
     }
   ]
 }
