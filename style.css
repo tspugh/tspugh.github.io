@@ -64,3 +64,10 @@ footer{gap:12px;flex-wrap:wrap}footer div{align-items:center;flex-wrap:wrap;gap:
 }
 
 @media print{.theme-toggle{display:none!important}}
+
+/* Fade palette changes only, without animating layout or initial page load. */
+@media screen and (prefers-reduced-motion: no-preference){
+ .theme-changing body,.theme-changing body *,.theme-changing body *::before,.theme-changing body *::after{
+  transition:background-color 240ms ease,color 240ms ease,border-color 240ms ease,box-shadow 240ms ease;
+ }
+}
